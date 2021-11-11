@@ -1,0 +1,82 @@
+body {
+    background-color: pink;
+}
+
+.container {
+    text-align: center;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    position: relative;
+    top: 10px;
+    color: white;
+}
+
+p2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+    left: 100px;
+    color: white;
+}
+
+#box {
+    width: 500px;
+    height: 150px;
+    box-shadow: -5px -5px rgb(123, 123, 123);
+    background-color: rgb(165, 165, 165);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 50px;
+}
+
+#logo {
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: -10px;
+    left: 500px;
+}
+
+#cadastro {
+    width: 100px;
+    height: 30px;
+    box-shadow: -5px -5px rgb(123, 123, 123);
+    background-color: rgb(165, 165, 165);
+    border-radius: 10px;
+    position: relative;
+    top: 99px;
+    right: 30px;
+}
+
+#login {
+    width: 100px;
+    height: 30px;
+    box-shadow: -5px -5px rgb(123, 123, 123);
+    background-color: rgb(165, 165, 165);
+    border-radius: 10px;
+    position: relative;
+    top: 99px;
+    right: 120px
+}
+
+plogin {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    position: relative;
+    top: 5px;
+    left: 28px;
+    color: white;
+}

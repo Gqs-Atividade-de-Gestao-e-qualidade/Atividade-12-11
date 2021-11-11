@@ -1,0 +1,103 @@
+body {
+    background-color: pink;
+}
+
+#logo {
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 0;
+}
+
+p {
+    font-family: cursive;
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -100px;
+}
+
+div.vendas1 {
+    width: 200px;
+    background-color: white;
+    height: 120px;
+    border: solid 2px black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -100px;
+    left: 200px;
+    border-radius: 10px;
+}
+
+div.view {
+    background-color: gray;
+    margin-top: 78px;
+}
+
+pvendas {
+    font-family: cursive;
+    text-align: left;
+    position: relative;
+    right: 30px;
+}
+
+div.vendas2 {
+    background-color: white;
+    width: 200px;
+    height: 120px;
+    border: solid 2px black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 200px;
+    top: -60px;
+    border-radius: 10px;
+}
+
+div.vendas3 {
+    background-color: white;
+    width: 200px;
+    height: 120px;
+    border: solid 2px black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -348px;
+    right: 200px;
+    border-radius: 10px;
+}
+
+div.vendas4 {
+    background-color: white;
+    width: 200px;
+    height: 120px;
+    border: solid 2px black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -310px;
+    right: 200px;
+    border-radius: 10px;
+}
+
+div.new {
+    background-color: rgb(155, 155, 155);
+    width: 30px;
+    border-radius: 10px;
+    height: 20px;
+    border: solid 2px black;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
